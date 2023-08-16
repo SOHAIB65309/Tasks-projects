@@ -1,0 +1,7 @@
+F:\2023 2nd semister\OOP LAB\TASK6\TASK6\bin\Debug\TASK6.exe.config
+F:\2023 2nd semister\OOP LAB\TASK6\TASK6\bin\Debug\TASK6.exe
+F:\2023 2nd semister\OOP LAB\TASK6\TASK6\bin\Debug\TASK6.pdb
+F:\2023 2nd semister\OOP LAB\TASK6\TASK6\obj\Debug\TASK6.exe
+F:\2023 2nd semister\OOP LAB\TASK6\TASK6\obj\Debug\TASK6.pdb
+F:\2023 2nd semister\OOP LAB\TASK6\TASK6\obj\Debug\TASK6.csprojAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\TASK6\TASK6\obj\Debug\TASK6.csproj.CoreCompileInputs.cache
