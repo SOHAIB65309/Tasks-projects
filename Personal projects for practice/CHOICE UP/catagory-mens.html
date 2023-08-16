@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Choice up</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="home.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg" style="background-image:url(Themes/na.jpg);">
+        <nav class="navbar bg-light" style="background-image:url(Themes/na.jpg);margin-top:-8px;">
+            <div class="container">
+                <a class="navbar-brand" href="home.html">
+                    <img src="CHOICE UP LOGO 2.0.jpg" style="border-radius: 100%;" alt="Bootstrap" width="100" height="80">
+                </a>
+            </div>
+        </nav>
+        <a class="navbar-brand" href="home.html" id="navigation">Home</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#"role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false"id="navigation">
+                        Catagory
+                    </a>
+                    <ul class="dropdown-menu bg-primary ">
+                        <li><a class="dropdown-item" href="catagory-mens.html">Mens</a></li>
+                        <li><a class="dropdown-item" href="catalog-women.html">Women</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="catalog-kids.html">Kids</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="featured-product.html"id="navigation">Freatured Products</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html"id="navigation">About us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html"id="navigation"> Contact us</a>
+                </li>
+            </ul>
+            <form class="d-flex" role="search">
+                <input class="form-control me-1" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-warning" type="submit">Search</button>
+            </form>
+            <div class="mx-2">
+             <button class="btn btn-dark"data-bs-toggle="modal" data-bs-target="#loginModal">Login</button>
+             <button class="btn btn-danger"data-bs-toggle="modal" data-bs-target="#signupModal">Sign Up</button>
+            </div>
+        </div>
+        </div>
+    </nav>
+    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="home.html" style="text-decoration: none;">Home</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Mens Collection</li>
+        </ol>
+      </nav>
+
+  <!--login Modal -->
+  <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true" style="background-image: url(Themes/nav.avif) ;">
+    <div class="modal-dialog">
+      <div class="modal-content" style="background-image: url(Themes/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg);">
+        <div class="modal-header">
+          <h5 class="modal-title" id="loginModalLabel">Login</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="input-group has-validation">
+            <span class="input-group-text">@</span>
+            <div class="form-floating is-invalid">
+              <input type="text" class="form-control is-invalid" id="floatingInputGroup2" placeholder="Username" required>
+              <label for="floatingInputGroup2">Username</label>
+            </div>
+            <div class="invalid-feedback">
+              Please choose a username.
+            </div>
+          </div>
+        <div class="form-floating mb-3">
+            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+            <label for="floatingInput">Email address</label>
+          </div>
+          <div class="form-floating">
+            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+            <label for="floatingPassword">Password</label>
+          </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <a href="catagory-mens.html"><button type="button" class="btn btn-primary">Login</button></a>
+        </div>
+      </div>
+    </div>
+  </div>  
+  <!-- signup Modal -->
+  <div class="modal fade" id="signupModal" tabindex="-1" aria-labelledby="signupModalLabel" aria-hidden="true" style="background-image: url(Themes/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg);">
+    <div class="modal-dialog ">
+      <div class="modal-content "  style="background-image: url(Themes/nav.avif);">
+        <div class="modal-header" style="background-image: url(Themes/na.avif);">
+          <h5 class="modal-title" id="signupModalLabel">SignUp</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+            <label for="floatingInput">Email address</label>
+          </div>
+          <div class="form-floating">
+            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+            <label for="floatingPassword">Password</label>
+          </div>
+          <div class="form-floating">
+            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+            <label for="floatingPassword"> Confirm Password</label>
+          </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <a href="catagory-mens.html"><button type="button" class="btn btn-success">SignUp</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div id="carouselExamplelight" class="carousel carousel-dark slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="10000">
+                <img src="Themes/clark-street-mercantile-P3pI6xzovu0-unsplash.jpg" height="450px" class="d-block w-100" alt="">
+                <div class="carousel-caption d-none d-md-block"style="color:white;" >
+                    <h1>Mens Premium Collection</h1>
+                    <p>Mens all new trending designs and hot selling Products .</p>
+
+                </div>
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="Themes/priscilla-du-preez-JGyRJlk3idE-unsplash.jpg" height="450px" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block"style="color: white;">
+                    <h5>Summer New arrival</h5>
+                    <p>Best quality article arrived at best prices.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="Themes/connect.avif" height="450px" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block" style="color:gold;">
+                    <h5>Let's connect through Whatsapp</h5>
+                    <p>Click the below link to get connect</p>
+                    <button type="button" class="btn btn-success">Click here</button>
+                </div>
+            </div>
+        </div><br>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <div class="container">
+        <div>
+            <h2 class="text-center mb-5 shadow-sm p-3" style="color: gray; ">Mens Premium Collection</h2>
+        </div>
+    </div>
+    <div class="container">
+        <div>
+            <h2 class="text-center mb-5 shadow-sm p-3" style="color:gold; ">Mens Polo Shirts</h2>
+        </div>
+    </div>
+    <div class="card-group"style="border-radius: 4px;width:">
+        <div class="card"style="border-radius: 4px;">
+          <img src="product images/pack of 8_1.jpg"  alt="...">
+          <div class="card-body">
+            <h5 class="card-title" style="color:blue;">Mens premium quality branded polo-shirts </h5>
+            <p class="card-text">Mens premium polo-shirt panel works with different colours combinations click on send query to connect on <b>whatsapp</b> . </p>
+            <p class="card-text"><small class="text-muted">Last updated 1 min ago</small></p><br>
+            <a href="https://wa.me/03082736787"><button type="button" class="btn btn-success">Send query</button></a>
+            <a href="pack of 8.html"><button type="button" class="btn btn-primary">View more</button></a>
+          </div>
+        </div>
+        <div class="card"style="margin-left: 20px;border-radius: 4px;">
+          <img src="product images/pack of three 3_1.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title"style="color:blue;">Pack of 3 premium quality branded polo-shirt for mens</h5>
+            <p class="card-text">Pack of 3 Mens premium polo-shirt panel works with different colours combinations click on send query to connect on <b>whatsapp</b> .</p>
+            <p class="card-text"><small class="text-muted">Last updated 1 mins ago</small></p>
+            <a href="https://wa.me/03082736787"><button type="button" class="btn btn-success">Send query</button></a>
+            <a href="pack of 3-1 polo.html"><button type="button" class="btn btn-primary">View more</button></a>
+          </div>
+        </div>
+        <div class="card" style="margin-left: 20px;border-radius: 4px;">
+          <img src="product images/pack of three 4_1.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title"style="color:blue;">Pack of 3 premium quality branded polo-shirt for mens</h5>
+            <p class="card-text">Pack of 3 Mens premium polo-shirt panel works with different colours combinations click on send query to connect on <b>whatsapp</b> .</p>
+            <p class="card-text"><small class="text-muted">Last updated 1 mins ago</small></p>
+            <a href="https://wa.me/03082736787"><button type="button" class="btn btn-success">Send query</button></a>
+           <a href="pack of 3-2 polo.html"> <button type="button" class="btn btn-primary">View more</button></a>
+          </div>
+          
+        </div>
+      </div><br>
+
+
+      <footer class="bg-dark text-white pb-5 pt-5">
+        <div class="container text-center text-md-left">
+            <div class="row text-center text-md-left">
+                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+                    <a href="home.html"> <img src="CHOICE UP LOGO 2.0.jpg" style="border-radius: 100%;" height="100px"
+                            width="125px" alt="reload"></a> <br><br>
+                    <small>Choice up Garments Manufacturer, Wholesaler and retailer we Manufacturer all types of
+                        knitsware garments , Custom made suits , uniform and we also deal on wholesale and retail all
+                        over Pakistan on COD. </small>
+                </div>
+                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+                    <h5 class="text-uppercase md-4 font-weight-bold text-warning">Products</h5>
+                    <p>
+                        <a href="catagory-mens.html" class="text-white" style="text-decoration: none;">Mens polo</a>
+                    </p>
+                    <p>
+                        <a href="catagory-mens.html" class="text-white" style="text-decoration: none;">Mens Tee</a>
+                    </p>
+                    <p>
+                        <a href="catalog-women.html" class="text-white" style="text-decoration: none;">Ladies
+                            T-Shirts</a>
+                    </p>
+                    <p>
+                        <a href="catalog-kids.html" class="text-white" style="text-decoration: none;">Kids Polo
+                            shirts</a>
+                    </p>
+                    <p>
+                        <a href="featured-product.html" class="text-white" style="text-decoration: none;">Top
+                            selling</a>
+                    </p>
+                </div>
+                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+                    <h5 class="text-uppercase md-4 font-weight-bold text-warning">Social media Links</h5>
+                    <p>
+                        <a href="https://www.facebook.com/profile.php?id=100068270438692&mibextid=ZbWKwL" class="text-white" style="text-decoration: none;">Facebook</a>
+                    </p>
+                    <p>
+                        <a href="#" class="text-white" style="text-decoration: none;">Instagram</a>
+                    </p>
+                    <p>
+                        <a href="#" class="text-white" style="text-decoration: none;">Linkedin</a>
+                    </p>
+                    <p>
+                        <a href="https://wa.me/03082736787" class="text-white" style="text-decoration: none;">Contact us
+                            on Whatsapp</a>
+                    </p>
+                </div>
+                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto-mt-3">
+                    <h5 class="text-uppercase md-4 font-weight-bold text-warning">Our Address</h5>
+                    <div class="mapouter">
+                        <div class="gmap_canvas"><iframe width="100%" height="100%" id="gmap_canvas"
+                                src="https://maps.google.com/maps?q=choice up&t=k&z=12&ie=UTF8&iwloc=&output=embed"
+                                frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a
+                                href="https://2yu.co">2yu</a><br>
+                            <style>
+                                .mapouter {
+                                    position: relative;
+                                    text-align: right;
+                                    height: 100%;
+                                    width: 100%;
+                                }
+                            </style>
+                            <a href="https://embedgooglemap.2yu.co/">html embed google map</a>
+                            <style>
+                                .gmap_canvas {
+                                    overflow: hidden;
+                                    background: none !important;
+                                    height: 100%;
+                                    width: 100%;
+                                }
+                            </style>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+   
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+body{
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    height: fit-content;
+}
+#navigation{
+    color: white;
+}
