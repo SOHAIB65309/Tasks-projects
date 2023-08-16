@@ -1,0 +1,7 @@
+F:\2023 2nd semister\OOP LAB\LAb9\LAb9\bin\Debug\LAb9.exe.config
+F:\2023 2nd semister\OOP LAB\LAb9\LAb9\bin\Debug\LAb9.exe
+F:\2023 2nd semister\OOP LAB\LAb9\LAb9\bin\Debug\LAb9.pdb
+F:\2023 2nd semister\OOP LAB\LAb9\LAb9\obj\Debug\LAb9.exe
+F:\2023 2nd semister\OOP LAB\LAb9\LAb9\obj\Debug\LAb9.pdb
+F:\2023 2nd semister\OOP LAB\LAb9\LAb9\obj\Debug\LAb9.csprojAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\LAb9\LAb9\obj\Debug\LAb9.csproj.CoreCompileInputs.cache
