@@ -1,0 +1,36 @@
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\bin\Debug\kiet canteen.exe.config
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\bin\Debug\kiet canteen.exe
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\bin\Debug\kiet canteen.pdb
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet canteen.csprojResolveAssemblyReference.cache
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.Form1.resources
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.Properties.Resources.resources
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet canteen.csproj.GenerateResource.Cache
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet canteen.exe
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet canteen.pdb
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.appitizer.resources
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.maincourse.resources
+C:\Users\HP Notebook\Desktop\OOP (lab)\asssignment 1\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.desert.resources
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet canteen.csprojResolveAssemblyReference.cache
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.appitizer.resources
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.desert.resources
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.Form1.resources
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.maincourse.resources
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet_canteen.Properties.Resources.resources
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet canteen.csproj.GenerateResource.Cache
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet canteen.exe
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\obj\Debug\kiet canteen.pdb
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\bin\Debug\kiet canteen.exe.config
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\bin\Debug\kiet canteen.exe
+C:\Users\kk\Downloads\kiet canteen\kiet canteen\kiet canteen\bin\Debug\kiet canteen.pdb
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet canteen.csprojResolveAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet_canteen.appitizer.resources
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet_canteen.desert.resources
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet_canteen.Form1.resources
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet_canteen.maincourse.resources
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet_canteen.Properties.Resources.resources
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet canteen.csproj.GenerateResource.Cache
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet canteen.exe
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\obj\Debug\kiet canteen.pdb
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\bin\Debug\kiet canteen.exe.config
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\bin\Debug\kiet canteen.exe
+F:\2023 2nd semister\OOP LAB\ASSIGMNENT\kiet canteen\bin\Debug\kiet canteen.pdb

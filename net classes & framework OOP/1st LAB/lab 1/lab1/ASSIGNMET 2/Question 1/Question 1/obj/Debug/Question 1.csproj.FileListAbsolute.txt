@@ -1,0 +1,18 @@
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\bin\Debug\Question 1.exe.config
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\bin\Debug\Question 1.exe
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\bin\Debug\Question 1.pdb
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question 1.csprojAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.Form1.resources
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.Properties.Resources.resources
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.SeniorQuiz.resources
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question 1.csproj.GenerateResource.cache
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question 1.csproj.CoreCompileInputs.cache
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question 1.exe
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question 1.pdb
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.Junior_Quiz.resources
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.Seniour_high_or_low.resources
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.Seniour_low_level_questions.resources
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\bin\Debug\Guna.UI.dll
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question 1.csproj.CopyComplete
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.Junior_HighOrLow.resources
+F:\2023 2nd semister\OOP LAB\ASSIGNMET 2\Question 1\Question 1\obj\Debug\Question_1.Junior_Low_Level_questions.resources
