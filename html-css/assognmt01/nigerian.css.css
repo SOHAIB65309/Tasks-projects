@@ -1,0 +1,42 @@
+
+*{
+  margin: auto;
+  padding: 0 auto();  
+}
+
+
+body{
+    background-color: aquamarine;
+}
+.heading{
+    color: blanchedalmond;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.flag{
+    margin-top: 100px;
+    display: flex;
+    width: 500px;
+    height: 250px;
+    margin-left: 300px;
+    margin-right: 600px;
+}
+.green{
+    margin-top: 100px;
+    background-color: green;
+    width: 500px;
+    height: 250px;
+}
+.white{
+    margin-top: 100px;
+    background-color: white;
+    width: 500px;
+    height: 250px;
+}
+.green2{
+    margin-top: 100px;
+    background-color: green;
+    width: 500px;
+    height: 250px;
+
+}

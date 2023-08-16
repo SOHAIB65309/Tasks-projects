@@ -1,0 +1,40 @@
+
+body{
+    background-color: rgb(147, 13, 236);
+} 
+.heading{
+    color: rgb(229, 245, 12);
+    font-style:inherit;
+    margin-left: 350px;
+}
+.squire{
+    width: 200px;
+    height: 200px;
+    border-left: 200px;
+    border-right: 200px;
+    margin: 50px;
+    float: left;
+     background-color: rgb(255, 0, 119);
+}
+.circle{
+width: 200px;
+height: 200px;
+border-left: 200px;
+border-right: 200px;
+border-radius: 100%;
+margin-top: 50px;
+float: left;
+background-color: rgb(169, 224, 224);
+
+}
+
+.triangle{
+    width: 0;
+    height: 0;
+    border-right:150px solid transparent; 
+    border-left: 150px solid transparent;
+     margin: 80px;
+    margin-top: 300px;
+    border-bottom: 250px solid rgb(15, 238, 7);
+
+}
