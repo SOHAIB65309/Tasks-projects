@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    height: fit-content;
+}
+#navigation{
+    color:white;
+display: flex;
+}
+.navbar
+{
+    display: flex;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.card-img-top
+{
+    height: 300px;
+    width: 100%;
+    object-fit: contain;
+}
