@@ -1,0 +1,6 @@
+F:\2023 2nd semister\OOP LAB\LAb7\LAb7\bin\Debug\LAb7.exe.config
+F:\2023 2nd semister\OOP LAB\LAb7\LAb7\bin\Debug\LAb7.exe
+F:\2023 2nd semister\OOP LAB\LAb7\LAb7\bin\Debug\LAb7.pdb
+F:\2023 2nd semister\OOP LAB\LAb7\LAb7\obj\Debug\LAb7.csprojResolveAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\LAb7\LAb7\obj\Debug\LAb7.exe
+F:\2023 2nd semister\OOP LAB\LAb7\LAb7\obj\Debug\LAb7.pdb

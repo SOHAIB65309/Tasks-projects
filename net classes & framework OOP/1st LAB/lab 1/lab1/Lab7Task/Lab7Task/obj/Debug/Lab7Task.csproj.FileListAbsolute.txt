@@ -1,0 +1,7 @@
+F:\2023 2nd semister\OOP LAB\Lab7Task\Lab7Task\bin\Debug\Lab7Task.exe.config
+F:\2023 2nd semister\OOP LAB\Lab7Task\Lab7Task\bin\Debug\Lab7Task.exe
+F:\2023 2nd semister\OOP LAB\Lab7Task\Lab7Task\bin\Debug\Lab7Task.pdb
+F:\2023 2nd semister\OOP LAB\Lab7Task\Lab7Task\obj\Debug\Lab7Task.exe
+F:\2023 2nd semister\OOP LAB\Lab7Task\Lab7Task\obj\Debug\Lab7Task.pdb
+F:\2023 2nd semister\OOP LAB\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csprojAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\Lab7Task\Lab7Task\obj\Debug\Lab7Task.csproj.CoreCompileInputs.cache

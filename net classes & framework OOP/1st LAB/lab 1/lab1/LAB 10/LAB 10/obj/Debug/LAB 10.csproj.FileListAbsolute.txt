@@ -1,0 +1,7 @@
+F:\2023 2nd semister\OOP LAB\LAB 10\LAB 10\bin\Debug\LAB 10.exe.config
+F:\2023 2nd semister\OOP LAB\LAB 10\LAB 10\bin\Debug\LAB 10.exe
+F:\2023 2nd semister\OOP LAB\LAB 10\LAB 10\bin\Debug\LAB 10.pdb
+F:\2023 2nd semister\OOP LAB\LAB 10\LAB 10\obj\Debug\LAB 10.exe
+F:\2023 2nd semister\OOP LAB\LAB 10\LAB 10\obj\Debug\LAB 10.pdb
+F:\2023 2nd semister\OOP LAB\LAB 10\LAB 10\obj\Debug\LAB 10.csprojAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\LAB 10\LAB 10\obj\Debug\LAB 10.csproj.CoreCompileInputs.cache

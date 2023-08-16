@@ -1,0 +1,7 @@
+F:\2023 2nd semister\OOP LAB\Lab_12_13\Lab_12_13\bin\Debug\Lab_12_13.exe.config
+F:\2023 2nd semister\OOP LAB\Lab_12_13\Lab_12_13\bin\Debug\Lab_12_13.exe
+F:\2023 2nd semister\OOP LAB\Lab_12_13\Lab_12_13\bin\Debug\Lab_12_13.pdb
+F:\2023 2nd semister\OOP LAB\Lab_12_13\Lab_12_13\obj\Debug\Lab_12_13.csprojAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\Lab_12_13\Lab_12_13\obj\Debug\Lab_12_13.csproj.CoreCompileInputs.cache
+F:\2023 2nd semister\OOP LAB\Lab_12_13\Lab_12_13\obj\Debug\Lab_12_13.exe
+F:\2023 2nd semister\OOP LAB\Lab_12_13\Lab_12_13\obj\Debug\Lab_12_13.pdb
