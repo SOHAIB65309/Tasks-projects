@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Controls\AddNew.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Program manager\IdCreation_pm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterScr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginAsStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginAsFaculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterOrLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Program manager\SR_PM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\CourseInformatin_t.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Program manager\addCoursePM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Program manager\ProgramManagerLMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\StudentsClassSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\S_CurrentCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\AttendanceMark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\CoursePageStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Program manager\CourseTimingsPM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\home_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\home_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\SelfRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\SelfRegistrationIDSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\StudentInfoTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\StudentMarksUpload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\Student_LMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teachers\TeacherLMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Students\TestResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Controls\Course 3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\Course1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\Course2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\Course4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\IdCreation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\Notification.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\Student1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\Table1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\tableMarks.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
