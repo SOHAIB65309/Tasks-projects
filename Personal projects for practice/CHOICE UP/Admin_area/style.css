@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+    overflow-x: hidden;
+  
+}
+a{
+    text-decoration: none;
+}
+.card{
+    height: fit-content;
+}
+#navigation{
+    color: white;
+}
+.card-img-top
+{
+    height: 300px;
+    width: 100%;
+    object-fit: contain;
+}
+a
+{
+    text-decoration: none;
+
+}
