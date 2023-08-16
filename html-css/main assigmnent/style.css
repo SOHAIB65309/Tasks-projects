@@ -1,0 +1,44 @@
+body
+{
+    background-color: white;
+}
+h1
+{
+    color: rgb(248, 6, 6);
+    font-style: oblique;
+    background-color: rgba(68, 68, 67, 0.171);
+    border-style: solid;
+    border-color: rgb(234, 250, 12);
+}
+.intro
+{
+    color: rgb(1, 59, 248);
+    font-style:italic;
+    font-size: x-large;
+    border-style:dashed;
+    border-color: red;
+}
+.course
+{
+    
+    color: red;
+    font-size:xx-large;
+    border-style:double;
+    border-color: aqua;
+}
+h2
+{
+    color: brown;
+}
+.favorites
+{
+    font-size:xx-large;
+    border-style:ridge;
+    border-color: blueviolet;
+}
+.imotion
+{
+    text-align: center;
+    border-style: double;
+
+}

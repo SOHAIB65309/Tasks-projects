@@ -1,0 +1,95 @@
+
+.parent{
+    font-size: small;
+    height: 200px;
+}
+.one{
+    float: left;
+    padding-top: 30px;
+}
+.two{
+    float: left;
+    padding-top: 30px;
+}
+.three{
+    float: left;
+    padding-top: 30px;
+}
+.elder{
+    float: left;
+    padding-top: 30px;
+}
+.four{
+    padding-top: 25px;
+}
+
+form button {
+    
+    
+    background: yellow;
+    color: #014a83;
+   
+    border: 1px solid grey;
+    margin-left: 280px;
+    cursor: pointer;
+  }
+.nav-link{
+    
+    text-decoration: solid;
+    text-decoration: none;
+}
+.btn{
+    background-color: #013155;
+    color: white;
+    }
+    .btn-group{
+        margin-left: 80px;
+    }
+.card-deck{
+    height: auto;
+}
+.price{
+    text-align: center;
+}
+#detailbutton{
+    background-color: #014a83;
+    color: white;
+}
+.card-title{
+    color: rgb(12, 117, 236);
+    text-align: center;
+}
+.navbar-brand{
+    margin-left: 100px;
+}
+.nav-item :hover{
+    background-color:#0471c5;
+    
+}
+.about-head{
+    color: rgb(105, 104, 104);
+    font-style: italic;
+    text-align: center;
+}
+.about-cont{
+    text-align: center;
+    color: rgb(105, 104, 104);
+    font-style: italic;
+}
+input[type=text]{
+    width:fit-content;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    margin-left: 10px;
+  }
+  input[type=submit]{
+    color: white;
+    width: 200px;
+    background-color: #013155;
+    border-radius: 4px;
+  }
+
+

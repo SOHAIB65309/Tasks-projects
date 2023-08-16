@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+    <p>PHP Exercises</p>
+    <p>Python Exercises</p>
+    <p>JavaScript Exercises</p>
+    <p>jQuery Exercises</p>
+
+    <script>
+        $('p').each(function () {
+            var text = $(this).text();
+            var firstWord = text.split(' ')[0];
+            var restOfText = text.slice(firstWord.length);
+            $(this).html(`<b>${firstWord}</b>${restOfText}`);
+        });
+
+    </script>
+     <p class="unlin">I am underlining this whole line </p>
+
+     <script>
+          $(".unlin").each(function () {
+             var text = $(this).text();
+             var firstWord = text.split('    ')[0];
+             var restOfText = text.slice(firstWord.length);
+             $(this).html(`<u>${firstWord}</u>${restOfText}`);
+         });
+ 
+     </script>
+ <button>Remove Google link</button><br><br>
+ <a href="https://www.google.com/">Google link </a>
+
+ <script>
+      $('button').click(function () {
+         $('a').hide();
+     });
+ </script>
+
+
+
+    
+</body>
+</html>
