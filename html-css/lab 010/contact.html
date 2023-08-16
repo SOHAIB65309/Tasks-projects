@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="stylesheet.css">
+<style>
+
+input[type=text]{
+  width: 20%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius:10px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+
+}
+
+input[type=submit] {
+  background-color: #0780e2;
+  color: white;
+  padding: 12px ;
+  border: none;
+  border-radius: 100%; 
+}
+label{
+  color: #0780e2;
+}
+</style>
+</head>
+<body>
+  <header class="header">
+    <nav>
+        <div class="logo"><a href="home.html"><img src="CHOICE UP LOGO 2.0.jpg" height="100px" width="150"></a> </div>
+       <div class="home"><a  class="home" href="home.html">Home</a></div>
+       <div class="catalog"><a class="catalog" href="Catalog.html">Catalog</a></div>
+       <div class="cart"><a href="cart.html"><img src="cart pic.jpg" height="100px" width="120px" style="border-radius: 100%;" ></a></div>
+       <div class="about"><a  class="about" href="about.html">About us</a></div>
+       <div class="signup"><a  class="signup" href="signup.html">signup</a></div>
+       <div class="contact"><a  class="contact" href="contact.html">contact us</a></div>
+    </nav>
+</header>
+<h2 style="height: 35px;font-size: xx-large;font-weight: bolder;color:#0780e2;" >Contact Form</h2>
+<div class="container">
+    <label for="fname">Full Name</label><br><br>
+    <input type="text" id="fname" name="firstname" placeholder="Your First Name.." required><br>
+    <input type="text" id="lname" name="lastname" placeholder="Your last Name.."required ><br>
+    <label for="lname">Email</label><br><br>
+    <input type="text" id="Email" name="Email" placeholder="Your Email"required><br>
+
+
+    <label for="subject">Leave us a few words</label><br>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height: 100px;width: 300px;border-radius:5px;" required ></textarea><br>
+
+    <input type="submit" value="Submit" >
+  </form>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+
+body{
+    margin-top: 10px;
+    background-image: url(body\ background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+.logo{
+    border-radius: 10%;
+}
+nav{
+    margin-top: 30px;
+    background-image:url(nav\ background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 100px;
+    align-self: center;
+}
+.home{
+    padding-left:10%;
+    padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    float: left;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: white;
+}
+.catalog{
+    padding-left:3%;
+    padding-top: 8px;
+}
+.cart{
+    height:fit-content;
+    width: fit-content;
+    float: left;
+    padding-left:3%;
+    margin-top: -25px;
+}
+.about{
+    padding-left:3%;
+    padding-top: 8px;
+}
+.signup{
+    padding-left:3%;
+    padding-top: 4px;
+}
+.contact{
+    padding-left:3%;
+    padding-top: 3px;
+}

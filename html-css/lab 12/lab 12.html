@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+   <script src="jquery.js"></script>
+    <title>Lab 12</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <input type="text" id="myinput" class="form-control" placeholder="search"/>
+        </div>
+        <div class="row">
+        <table class="table table bordered" id="mytable" width="100%" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Position</th>
+                <th>Office</th>
+                <th>Age</th>
+                <th>Start date</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Tiger Nixon</td>
+                <td>ststem architect</td>
+                <td>edinburgh</td>
+                <td>61</td>
+                <td>2011/04/25</td>
+                <td>$320,800</td>
+            </tr>
+            <tr>
+                <td>garrent winters</td>
+                <td>accountant</td>
+                <td>tokiyo</td>
+                <td>63</td>
+                <td>2011/07/25</td>
+                <td>$170,750</td>
+            </tr>
+            <tr>
+                <td>garrent winters</td>
+                <td>accountant</td>
+                <td>tokiyo</td>
+                <td>63</td>
+                <td>2011/07/25</td>
+                <td>$170,750</td>
+            </tr>
+            <tr>
+                <td>garrent winters</td>
+                <td>accountant</td>
+                <td>tokiyo</td>
+                <td>63</td>
+                <td>2011/07/25</td>
+                <td>$170,750</td>
+            </tr>
+            <tr>
+                <td>garrent winters</td>
+                <td>accountant</td>
+                <td>tokiyo</td>
+                <td>63</td>
+                <td>2011/07/25</td>
+                <td>$170,750</td>
+            </tr>
+            <tr>
+                <td>garrent winters</td>
+                <td>accountant</td>
+                <td>tokiyo</td>
+                <td>63</td>
+                <td>2011/07/25</td>
+                <td>$170,750</td>
+            </tr>
+            <tr>
+                <td>garrent winters</td>
+                <td>accountant</td>
+                <td>tokiyo</td>
+                <td>63</td>
+                <td>2011/07/25</td>
+                <td>$170,750</td>
+            </tr>
+             </tbody></table>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function(){
+        $("#myinput").on("keyup",function(){
+            var value=$(this).val().toLowerCase();
+            $("#mytable tr").filter(function(){
+                $(this).toggle($(this).text().toLowerCase().indexOf(value)>-1)
+        });});});
+    </script>
+</body>
+</html>

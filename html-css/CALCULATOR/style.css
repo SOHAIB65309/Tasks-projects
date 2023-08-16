@@ -1,0 +1,17 @@
+
+body{
+    background-color: aqua;
+}
+.calculator{
+    align-items: center;
+    margin-left: 400px;
+}
+h1{
+    text-align: center;
+}
+.div{
+    border-style: solid;
+    height:fit-content;
+    width:fit-content;
+    
+}

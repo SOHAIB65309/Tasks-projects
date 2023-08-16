@@ -1,0 +1,65 @@
+nav{
+    margin-top: 10%;
+    height: 50px;
+    background-color: purple;
+    padding: 0%;
+}
+nav ul
+{
+    background-color: purple;
+    width: 1500px;
+}
+nav ul li{
+   float: left;
+   width: fit-content;
+border-width:192px;
+}
+nav ul li ul{
+    float: left;
+}
+nav ul a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+  display: block;
+    height: 40px;
+    width: 192px;
+    line-height: 50px;
+    padding:0
+}
+nav ul a:hover{
+background-color: purple;
+}
+nav ul li:hover> ul{
+    visibility: visible;
+    padding: 0%;
+    margin-top: 0%;
+}
+nav ul ul{
+    position: absolute;
+    background-color: purple;
+    
+}
+nav ul ul ul{
+    margin-left: 192px;
+    margin-top: -50px;
+}
+nav ul ul li{
+    float:none;
+}
+
+li{
+    background-color: purple;
+    text-decoration: none;
+    list-style-type: none;
+}
+ul{
+    color: white;
+    text-decoration: none;
+    list-style-type:none;
+    height: 0px;
+    padding: 0%;
+    margin-top: 0%;
+    text-align: center;
+    width:fit-content;
+}
