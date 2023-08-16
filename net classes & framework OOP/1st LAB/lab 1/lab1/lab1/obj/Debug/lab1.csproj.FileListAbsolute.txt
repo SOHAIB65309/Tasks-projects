@@ -1,0 +1,10 @@
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\bin\Debug\lab1.exe.config
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\bin\Debug\lab1.exe
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\bin\Debug\lab1.pdb
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\obj\Debug\lab1.Form1.resources
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\obj\Debug\lab1.exe
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\obj\Debug\lab1.pdb
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+F:\2023 2nd semister\OOP LAB\1st LAB\lab 1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
