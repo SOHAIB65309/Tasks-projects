@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KIET_LMS</id>
+    <version>1.0.0</version>
+    <authors>KIET_LMS</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="CircularProgressBar" version="2.8.0.16" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.runtimeconfig.json" target="lib\net6.0-windows7.0\KIET_LMS.runtimeconfig.json" />
+    <file src="C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.dll" target="lib\net6.0-windows7.0\KIET_LMS.dll" />
+  </files>
+</package>

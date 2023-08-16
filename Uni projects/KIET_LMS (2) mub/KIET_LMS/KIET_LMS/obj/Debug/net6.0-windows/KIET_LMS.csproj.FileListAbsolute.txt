@@ -1,0 +1,327 @@
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.exe
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.deps.json
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.runtimeconfig.json
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.dll
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.pdb
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.AssemblyReference.cache
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.GenerateResource.cache
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfoInputs.cache
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfo.cs
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CoreCompileInputs.cache
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.dll
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\refint\KIET_LMS.dll
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.pdb
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.genruntimeconfig.cache
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\ref\KIET_LMS.dll
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Properties.Resources.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CopyComplete
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Student_LMS.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.addCoursePM.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseTimingsPM.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Program_manager.ProgramManagerLMS.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentRegistration.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CoursePageStudent.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.gradeHistory.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_student.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistration.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistrationIDSelection.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AttendanceMark.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_teacher.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentInfoTeacher.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentMarksUpload.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Teachers.TeacherLMS.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course1.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Table1.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.tableMarks.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Student1.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course_3.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course2.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course4.resources
+C:\Users\Tech-IQ\source\repos\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Id_Creation.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.exe
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.deps.json
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.runtimeconfig.json
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.dll
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.pdb
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.AssemblyReference.cache
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.addCoursePM.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseTimingsPM.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Program_manager.ProgramManagerLMS.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Properties.Resources.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CoursePageStudent.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.gradeHistory.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_student.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistration.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistrationIDSelection.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Student_LMS.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AttendanceMark.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_teacher.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentInfoTeacher.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentMarksUpload.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Teachers.TeacherLMS.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course_3.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course1.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course2.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course4.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Id_Creation.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Student1.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Table1.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.tableMarks.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.GenerateResource.cache
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfoInputs.cache
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfo.cs
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CoreCompileInputs.cache
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CopyComplete
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.dll
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\refint\KIET_LMS.dll
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.pdb
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.genruntimeconfig.cache
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\ref\KIET_LMS.dll
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsFaculty.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsStudent.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.NotificationPanel.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.IdCreation_pm.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Register.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.RegisterOrLogin.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentsClassSchedule.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.S_CurrentCourses.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseInformatin_t.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.TestResults.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Notification.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Welcome.resources
+C:\Users\R.Shakeel\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.stReg_pm.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.AssemblyReference.cache
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsFaculty.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsStudent.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.NotificationPanel.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.addCoursePM.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseTimingsPM.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.IdCreation_pm.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Program_manager.ProgramManagerLMS.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.stReg_pm.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Properties.Resources.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.RegisterOrLogin.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CoursePageStudent.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.gradeHistory.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_student.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistration.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistrationIDSelection.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentsClassSchedule.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Student_LMS.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.S_CurrentCourses.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.TestResults.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AttendanceMark.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseInformatin_t.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_teacher.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentInfoTeacher.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentMarksUpload.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Teachers.TeacherLMS.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course_3.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course1.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course2.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course4.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Id_Creation.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Notification.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Student1.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Table1.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.tableMarks.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Welcome.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.GenerateResource.cache
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfoInputs.cache
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfo.cs
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CoreCompileInputs.cache
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.RegisterScr.resources
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.exe
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.deps.json
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.runtimeconfig.json
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.pdb
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CopyComplete
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\refint\KIET_LMS.dll
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.pdb
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.genruntimeconfig.cache
+C:\Users\Tech-IQ\Desktop\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\ref\KIET_LMS.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.exe
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.deps.json
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.runtimeconfig.json
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.pdb
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.AssemblyReference.cache
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsFaculty.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsStudent.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.addCoursePM.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseTimingsPM.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.IdCreation_pm.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Program_manager.ProgramManagerLMS.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.stReg_pm.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Properties.Resources.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.RegisterOrLogin.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.RegisterScr.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CoursePageStudent.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_student.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistration.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistrationIDSelection.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentsClassSchedule.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Student_LMS.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.S_CurrentCourses.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.TestResults.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AttendanceMark.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseInformatin_t.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_teacher.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentInfoTeacher.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentMarksUpload.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Teachers.TeacherLMS.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course_3.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course1.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course2.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course4.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Id_Creation.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Notification.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Student1.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Table1.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.tableMarks.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Welcome.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.GenerateResource.cache
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfoInputs.cache
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfo.cs
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CoreCompileInputs.cache
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CopyComplete
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\refint\KIET_LMS.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.pdb
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.genruntimeconfig.cache
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\ref\KIET_LMS.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.exe
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.deps.json
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.runtimeconfig.json
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\KIET_LMS.pdb
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.AssemblyReference.cache
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsFaculty.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.LoginAsStudent.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.NotificationPanel.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.addCoursePM.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseTimingsPM.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.IdCreation_pm.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Program_manager.ProgramManagerLMS.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.stReg_pm.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Properties.Resources.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.RegisterOrLogin.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.RegisterScr.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CoursePageStudent.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.gradeHistory.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_student.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistration.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.SelfRegistrationIDSelection.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentsClassSchedule.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Student_LMS.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.S_CurrentCourses.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.TestResults.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AttendanceMark.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.CourseInformatin_t.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.home_teacher.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentInfoTeacher.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.StudentMarksUpload.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Teachers.TeacherLMS.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course_3.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course1.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course2.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Course4.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Id_Creation.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Notification.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Student1.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.Table1.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.User_Controls.tableMarks.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.Welcome.resources
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.GenerateResource.cache
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfoInputs.cache
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AssemblyInfo.cs
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CoreCompileInputs.cache
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.csproj.CopyComplete
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\refint\KIET_LMS.dll
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.pdb
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.genruntimeconfig.cache
+E:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\ref\KIET_LMS.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Azure.Core.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Azure.Identity.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.Memory.Data.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.AddNew.resources
+F:\KIET_LMS (2) mub\KIET_LMS\KIET_LMS\obj\Debug\net6.0-windows\KIET_LMS.MBox.resources
